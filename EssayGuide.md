@@ -11,7 +11,7 @@ and dénouement/resolution/revelation/catastrophe^[1]
 [1]: https://en.wikipedia.org/wiki/Dramatic_structure
 -->
 
-# PRUEBA DE CONEXIÓN  -----
+# PRUEBA DE CONEXIÓN  -----CAMBIOS EN GITHUB
 
 Here is basic guide about how to write an Essay. Try to use this guide to define
 what ideas should contain each section.
