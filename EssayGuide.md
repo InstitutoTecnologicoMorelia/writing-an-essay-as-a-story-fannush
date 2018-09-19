@@ -29,6 +29,11 @@ En la gran mayoría de los núcleos familiares se tiene la creencia de que el se
 Cada día millones de mexicanos desde los 3 hasta los 24 años de edad, acuden a algún tipo de institución educativa cubriendo un horario, asignaciones, tareas, responsabilidades,etcétera; y realizan este ritual de disciplina y sacrificios para perpetuar la promesa de un brillante porvenir; las carreras que se vislumbran con un alto potencial son aquellas relacionadas con el área de las ingenierías, así que con una motivación basada en una percepción de entusiasmo colectivo, los aspirantes emprenden la aventura de invertir más de 20 años de sus vidas para convertirse en Ingenieros y asegurar su futuro. 
 
 2. El camino académico
+
+Como todo en la vida, hay niveles; para algunos todo comienza en el nivel preescolar o en la primaria, se puede decir que hasta aquí la adqusición de conocimiento se ve como un juego de niños, todos acuden a estudiar prácticamente como autómatas sin tener mucha consciencia del impacto que pueden tener esos felices años en la toma de decisiones profesionales. 
+Un niño es creativo por naturaleza, curioso, espontáneo, disfruta la experiencia del vuelo de una mosca, de ver nubes formarse y su capacidad de asombro es inagotable. De esta misma manera es como un científico se relaciona con su entorno, entonces, ¿Porqué existe un rechazo casi obligado hacia las ciencias exactas una vez que ingresan a la educación secundaria? 
+Las estadísiticas de los países en vías de desarrollo coinciden con niveles bajos en cuanto a formación en ciencia y tecnología, así mismo las cifras de preparación en este mismo tema son elevados en países de primer mundo. Evidentemente hay un factor socio-cultural que favorece dicha orientación vocacional; 
+
 3. Bienvenido a la realidad
 4. Tiempo, talento, conocimiento y otros artilugios
 5. El jugador sobrecalificado
