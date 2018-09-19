@@ -11,25 +11,14 @@ and dénouement/resolution/revelation/catastrophe^[1]
 [1]: https://en.wikipedia.org/wiki/Dramatic_structure
 -->
 
-# PRUEBA DE CONEXIÓN  -----CAMBIOS EN GITHUB
+# INGENIERO SUPER-ESTRELLA
 
-Here is basic guide about how to write an Essay. Try to use this guide to define
-what ideas should contain each section.
-
-Please remember to write this essay as a storyteller. Considering the definition
-present  Under Freytag's pyramid, the plot of a story consists of five parts:
-exposition (originally called introduction), rising action (rise),
-climax, falling action (return or fall), and dénouement/resolution/revelation/catastrophe.
+La ardua y emocionante misión del posicionamiento profesional.
 
 ## Introduction
 
-Considering the beamer presentation of Lecture 1, remember that introduction section
-must contain:
-- Some comment on the topic of the essay.
-- Perhaps definitions are needed.
-- Also state which aspects of the topic you intend to deal with and why.
-- Remember you are not writing a book, so you need to select a few main arguments to support your answer to the question.
-- Your introduction should consist of a guide to the essay giving the reader a clear idea of what will follow.
+Hace apenas unas tres décadas, la prestación de servicios era ejercida por aquellos popularmente conocidos por su profesionalismo y expertisse; la necesidad de un documento probatorio era algo de lo que se podía prescindir.
+Diversos eventos históricos mundiales desencadenaron una oleada de tecnificación de procesos en la vida cotidiana, su crecimiento exponencial forzó la especialización académica principalmente en los ramos científicos. Este tipo de conocimiento requirió, por su naturaleza, ser validado de manera oficial; en este periodo de post-guerra, alrededor de los años 50's, se presenta una fuerte tendencia al impulso de la educación superior en México; desde aquellos días, la brecha entre el perfil de puestos laborales y el perfil profesional para cubrirlos se va haciendo más grande; no obstante, los insentivos para dar continuidad a la preparación académica son relativamente atractivos, cuando menos para el área de las ciencias, sin embargo, esto provoca la aparición de profesionistas sobrecalificados y paradójicamente existe una deficiencia en las empresas para cubrir numerosos cargos de nivel más técnico o que no requieren de alta especialización. Por otra parte, la caducidad de las profesiones relacionadas con la ciencia y la tecnología oscila entre los 3 y los 8 años, entonces, ¿Cuál es la combinación ganadora para un ingeniero que se abre paso bajo estas circunstancias?
 
 ## Body
 The body of the essay will take each of previous main points and develop them with **examples and illustrations**, using clearly defined paragraphs. This is where you will need to think about the structure of your essay and make sure you follow a clear path through to your conclusion.
