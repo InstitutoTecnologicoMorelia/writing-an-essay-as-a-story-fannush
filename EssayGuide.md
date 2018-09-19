@@ -44,16 +44,22 @@ Alemania es uno de los países que ha presentado avances notables, su modelo de 
 
 4. Tiempo, talento, conocimiento y otros artilugios
 
-En vista del panorama poco alentador, el profesionista se embarca en la aventura de poner todo su empeño, conocimientos y tiempo para obtener una primera oportunidad, es como un seleccionado nacional en la banca, ya entrenó, tiene condición física, conoce las reglas, pero nunca ha jugado un partido real, así que sediento de provar su valía, toma lo que le ofrezcan y trata de eejecutar su trabajo con honor y con gusto, pero algo pasa en el camino, parece como si comenzara a perder el entusiasmo, parece todo volverse rutina, unos afortunados logran tener puestos en donde crecen en conjunto con sus capacidades financieras, pero no son la mayoría. En las empresas de base tecnológica se requiere estar a la vanguardia y en constante preparación, entonces se toma una decisión de valientes, estudiar un postgrado y va de nueva cuenta la aventura de ser estudiante de alto desempeño durante dos años más para repetir 
+En vista del panorama poco alentador, el profesionista se embarca en la aventura de poner todo su empeño, conocimientos y tiempo para obtener una primera oportunidad, es como un seleccionado nacional en la banca, ya entrenó, tiene condición física, conoce las reglas, pero nunca ha jugado un partido real, así que sediento de provar su valía, toma lo que le ofrezcan y trata de eejecutar su trabajo con honor y con gusto, pero algo pasa en el camino, parece como si comenzara a perder el entusiasmo, parece todo volverse rutina, unos afortunados logran tener puestos en donde crecen en conjunto con sus capacidades financieras, pero no son la mayoría. En las empresas de base tecnológica se requiere estar a la vanguardia y en constante preparación, entonces se toma una decisión de valientes, estudiar un postgrado y va de nueva cuenta la aventura de ser estudiante de alto desempeño durante dos o cuatro años más. 
 
 5. El jugador sobrecalificado
+
+Títulos, diplomados, certificaciones, cursos y todo un arsenal intelectual puesto a disposición del mundo. Las posibilidades teniendo ya un postgrado, abren la puerta de la investigación o la docencia de nivel superior, sin embargo desempeñar cargos dentro de una compañia representa un reto mayor, ahora resulta que la mayoría de la preparación científica no representa un beneficio sustancial en el escalafón de puestos, no es bueno ni malo, simplemente la oferta no es compatible con la demanda, se forman profesionistas sin tomar en cuenta las necesidades reales del mercado. México es un país con uno de los mayores bonos demográficos en el mundo, su población juvenil se encuentra en su mejor momento, en contraste con países europeos, que tienen las infraestructura pero no la gente. Entonces, ¿Cuál es el proyecto de vida ideal para un ingeniero que se quiere mantener vigente?
+
 6. La preparación eterna para la misión de nunca jamás
 
+La orientación vocacional termina siendo un elefante blanco, las prioridades a la hora de elegir una profesión se ven ensombrecidas por otro tipo de intereses que no tienen nada que ver con capacidades, gustos, afinidad ni competencias (en la mayoría de los casos). Corea es otro ejemplo de cómo se tuvo que recurrir a un plan nacional de largo plazo, se le apostó a un proyecto de veinte años para consolidar un perfil profesional que pudiera enfrentar los retos de un mundo globalizado y apenas se están veindo los frutos de aquella decisión; en México se tiene que seguir ese ejemplo, todas las carreras y matrículas tienen que estar alineadas a un plan de desarrollo a largo plazo en donde se visualicen los diferentes escenarios para cada nicho industrial a ser cubierto; fomentar la creación de centros de desarrollo de tecnología puede colaborar con esa meta, porque permitiría la creación de más plazas para la invesigación y el aprovechamiento del talento nacional puesto a disposición y beneficio del país. 
+
+## Conclusión
+
+Es interesante observar cómo la educación en México ha sido moldeada con el paso de los años, las ingenierías son un arma de doble filo, por una parte, están a la vanguardia en todo lo referente a tecnología, pero ésta avanza tan rápido que mantenerse actualizado es una tarea de toda la vida; lo mejor es plantear bien desde el inicio qué área del conocimiento es aquella que realmente resulta apasionante, esa que permite que cáda día laborado sea un privilegio, pero sobre todo teniendo en mente que los conocimientos son para ser puestos al servicio de la humanidad.
 
 
-## Conclusion
-
-## References
+## Referencias
 
 [^1]: Ten Steps to Write an Essay, http://www.schoolatoz.nsw.edu.au/homework-and-study/homework-tips/10-tips-for-writing-an-essay, accessed August 23, 2018.
 
