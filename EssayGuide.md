@@ -22,6 +22,11 @@ Diversos eventos históricos mundiales desencadenaron una oleada de tecnificaci�
 
 ## Desarrollo
 1. Una promesa a largo plazo
+Invertir una tercera parte de la vida estudiando, como mínimo, tan sólo para obtener un grado de licenciatura, pareciera ser la culminación de largos desvelos y retos, pero en realidad, la verdadera aventura apenas comienza. 
+
+En la gran mayoría de los núcleos familiares se tiene la creencia de que el ser un profesionista prácticamente garantiza el éxito personal, hablando de éste como ese logro que le permite a un ser humano tener cierta libertad financiera e hipotéticamente, dedicarse a algo que disfruta hacer.
+Cada día millones de mexicanos desde los 3 hasta los 24 años de edad, acuden a algún tipo de institución educativa cubriendo un horario, asignaciones, tareas, responsabilidades,etcétera; y realizan este ritual de disciplina y sacrificios para perpetuar la promesa de un brillante porvenir; las carreras que se vislumbran con un alto potencial son aquellas relacionadas con el área de las ingenierías, así que con una motivación basada en una percepción de entusiasmo colectivo, los aspirantes emprenden la aventura de invertir más de 20 años de sus vidas para convertirse en Ingenieros y asegurar su futuro. 
+
 2. El camino académico
 3. Bienvenido a la realidad
 4. Tiempo, talento, conocimiento y otros artilugios
