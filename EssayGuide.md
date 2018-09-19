@@ -15,19 +15,18 @@ and dénouement/resolution/revelation/catastrophe^[1]
 
 La ardua y emocionante misión del posicionamiento profesional.
 
-## Introduction
+## Introducción
 
 Hace apenas unas tres décadas, la prestación de servicios era ejercida por aquellos popularmente conocidos por su profesionalismo y expertisse; la necesidad de un documento probatorio era algo de lo que se podía prescindir.
 Diversos eventos históricos mundiales desencadenaron una oleada de tecnificación de procesos en la vida cotidiana, su crecimiento exponencial forzó la especialización académica principalmente en los ramos científicos. Este tipo de conocimiento requirió, por su naturaleza, ser validado de manera oficial; en este periodo de post-guerra, alrededor de los años 50's, se presenta una fuerte tendencia al impulso de la educación superior en México; desde aquellos días, la brecha entre el perfil de puestos laborales y el perfil profesional para cubrirlos se va haciendo más grande; no obstante, los insentivos para dar continuidad a la preparación académica son relativamente atractivos, cuando menos para el área de las ciencias, sin embargo, esto provoca la aparición de profesionistas sobrecalificados y paradójicamente existe una deficiencia en las empresas para cubrir numerosos cargos de nivel más técnico o que no requieren de alta especialización. Por otra parte, la caducidad de las profesiones relacionadas con la ciencia y la tecnología oscila entre los 3 y los 8 años, entonces, ¿Cuál es la combinación ganadora para un ingeniero que se abre paso bajo estas circunstancias?
 
-## Body
-Una promesa a largo plazo
-
-El camino académico
-Bienvenido a la realidad
-Tiempo, talento, conocimiento y otros artilugios
-El jugador sobrecalificado
-La preparación eterna para la msión de nunca jamás
+## Desarrollo
+1. Una promesa a largo plazo
+2. El camino académico
+3. Bienvenido a la realidad
+4. Tiempo, talento, conocimiento y otros artilugios
+5. El jugador sobrecalificado
+6. La preparación eterna para la misión de nunca jamás
 
 
 
