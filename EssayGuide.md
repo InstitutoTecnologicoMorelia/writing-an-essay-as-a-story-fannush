@@ -22,6 +22,7 @@ Diversos eventos históricos mundiales desencadenaron una oleada de tecnificaci�
 
 ## Desarrollo
 1. Una promesa a largo plazo
+
 Invertir una tercera parte de la vida estudiando, como mínimo, tan sólo para obtener un grado de licenciatura, pareciera ser la culminación de largos desvelos y retos, pero en realidad, la verdadera aventura apenas comienza. 
 
 En la gran mayoría de los núcleos familiares se tiene la creencia de que el ser un profesionista prácticamente garantiza el éxito personal, hablando de éste como ese logro que le permite a un ser humano tener cierta libertad financiera e hipotéticamente, dedicarse a algo que disfruta hacer.
